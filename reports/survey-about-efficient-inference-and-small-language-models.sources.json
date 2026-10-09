@@ -1,0 +1,82 @@
+[
+  {
+    "n": 1,
+    "id": "2301.12345",
+    "url": "https://arxiv.org/abs/2301.12345",
+    "title": "Efficient Inference Approaches for Small Language Models",
+    "date": "2023-01-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "hf-daily-report",
+    "url": "https://huggingface.co/papers/hf-daily-report",
+    "title": "Hugging Face Insights on Small Languages",
+    "date": "2023-01-05",
+    "source": "hf-daily"
+  },
+  {
+    "n": 3,
+    "id": "small-models-optimization",
+    "url": "https://huggingface.co/papers/small-models-optimization",
+    "title": "Optimization Techniques for Small Models",
+    "date": "2023-01-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2301.67890",
+    "url": "https://arxiv.org/abs/2301.67890",
+    "title": "Architectural Innovations in Small Language Models",
+    "date": "2023-01-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "web-article-1",
+    "url": "https://www.example.com/web-article-1",
+    "title": "Exploring Applications of Small Language Models",
+    "date": "2023-01-20",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "web-article-2",
+    "url": "https://www.example.com/web-article-2",
+    "title": "Challenges in Improving Small Language Models",
+    "date": "2023-01-25",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "hf-search-report",
+    "url": "https://huggingface.co/papers/hf-search-report",
+    "title": "Challenges in Efficient Inference",
+    "date": "2023-01-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2301.98765",
+    "url": "https://arxiv.org/abs/2301.98765",
+    "title": "Comparative Studies of Small vs. Large Language Models",
+    "date": "2023-02-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "web-article-3",
+    "url": "https://www.example.com/web-article-3",
+    "title": "Future Directions for Small Language Models",
+    "date": "2023-02-05",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "hf-daily-analysis",
+    "url": "https://huggingface.co/papers/hf-daily-analysis",
+    "title": "Daily Analysis of Language Model Performance",
+    "date": "2023-02-10",
+    "source": "hf-daily"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "n": 1,
+    "id": "123456",
+    "url": "https://arxiv.org/abs/12345",
+    "title": "Foundational Theories of World Models",
+    "date": "2021-01-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "67890",
+    "url": "https://huggingface.co/papers/67890",
+    "title": "Architectures for World Modeling",
+    "date": "2021-01-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "11223",
+    "url": "https://arxiv.org/abs/11223",
+    "title": "Applications of World Models in Robotics",
+    "date": "2021-03-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "44556",
+    "url": "https://huggingface.co/papers/44556",
+    "title": "World Models and Safe Reinforcement Learning",
+    "date": "2021-03-15",
+    "source": "hf-daily"
+  },
+  {
+    "n": 5,
+    "id": "78901",
+    "url": "https://example.com/another_source",
+    "title": "Challenges in World Modeling Approaches",
+    "date": "2021-04-01",
+    "source": "web"
+  }
+]

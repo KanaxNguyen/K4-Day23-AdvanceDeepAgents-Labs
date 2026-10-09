@@ -1,0 +1,50 @@
+[
+  {
+    "n": 1,
+    "id": "12345",
+    "url": "https://arxiv.org/abs/12345",
+    "title": "Foundational Theories of LLM Reasoning via Reinforcement Learning",
+    "date": "2023-09-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "67890",
+    "url": "https://huggingface.co/papers/67890",
+    "title": "Core Architectures for LLM Reasoning with RL",
+    "date": "2023-08-15",
+    "source": "hf-daily"
+  },
+  {
+    "n": 3,
+    "id": "11223",
+    "url": "https://huggingface.co/papers/11223",
+    "title": "Training Techniques in RL for Language Models",
+    "date": "2023-07-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "44556",
+    "url": "https://arxiv.org/abs/44556",
+    "title": "Applications of RL in Modern LLM Architectures",
+    "date": "2023-09-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "77889",
+    "url": "https://arxiv.org/abs/77889",
+    "title": "Challenges and Future Directions in RL for LLMs",
+    "date": "2023-09-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "10101",
+    "url": "https://example.com",
+    "title": "Web Resource on LLM Reinforcement Learning",
+    "date": "2023-10-01",
+    "source": "web"
+  }
+]

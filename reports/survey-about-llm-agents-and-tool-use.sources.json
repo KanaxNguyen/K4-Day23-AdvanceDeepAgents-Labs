@@ -1,0 +1,66 @@
+[
+  {
+    "n": 1,
+    "id": "2602.06664",
+    "url": "https://huggingface.co/papers/2402.06664",
+    "title": "LLM Agents can Autonomously Hack Websites",
+    "date": "2023-04-15",
+    "source": "hf-daily"
+  },
+  {
+    "n": 2,
+    "id": "2402.01030",
+    "url": "https://huggingface.co/papers/2402.01030",
+    "title": "Executable Code Actions Elicit Better LLM Agents",
+    "date": "2023-02-10",
+    "source": "hf-daily"
+  },
+  {
+    "n": 3,
+    "id": "2602.12375",
+    "url": "https://arxiv.org/abs/2610.12375",
+    "title": "OnTrack: Real-Time Monitoring and Intervention in LLM Agent Trajectories",
+    "date": "2023-04-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2602.12360",
+    "url": "https://huggingface.co/papers/2610.12360",
+    "title": "Accurate but Not Humble: Evaluating Epistemic Humility in LLM Agents under Knowledge Conflict",
+    "date": "2023-03-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "10489-026-07340-9",
+    "url": "https://dl.acm.org/doi/10.1007/s10489-026-07340-9",
+    "title": "LLM-based Agent Systems: A Systematic Literature Review",
+    "date": "2023-01-05",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "2602.12364",
+    "url": "https://huggingface.co/papers/2402.12364",
+    "title": "From Language Models to Agentic AI: A Survey",
+    "date": "2023-06-01",
+    "source": "hf-daily"
+  },
+  {
+    "n": 7,
+    "id": "2602.01031",
+    "url": "https://huggingface.co/papers/2402.01031",
+    "title": "From Language Models to Agentic AI: Enhancing Collaboration in LLM Systems",
+    "date": "2023-02-15",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "2410.33333",
+    "url": "https://arxiv.org/abs/2410.33333",
+    "title": "LLM Agents and Tool Usage in Real-World Applications",
+    "date": "2023-05-10",
+    "source": "arxiv"
+  }
+]
